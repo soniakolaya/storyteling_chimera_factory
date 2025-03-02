@@ -1,8 +1,8 @@
 
  # Un Viaje por el Streaming: Descubriendo el Catálogo de Netflix y Disney
 
-A continuación encontraras la documentación del modelo de datos para los conjunto de datos `Movie and TV Shows`de las plataformas [Netflix](https://www.kaggle.com/datasets/shivamb/netflix-shows ), [Disney +](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows) y [Prime Video](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows ). 
-La base total contiene 19.925 registros, donde un 49% es de Prime, un 44% de Netflix, y un 7% de Disney +. Este compuesto por diferentes columnas las cuales contienen detalle del elenco, directores, calificaciones, año de lanzamiento, país de producción y duración de la película. 
+A continuación encontraras la documentación del modelo de datos para los conjunto de datos `Movie and TV Shows`de las plataformas [Netflix](https://www.kaggle.com/datasets/shivamb/netflix-shows ) y [Disney +](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows). 
+La base total contiene 10.257 registros, donde un 85% es de Netflix y 15% de Disney +. Este compuesto por diferentes columnas las cuales contienen detalle del elenco, directores, calificaciones, año de lanzamiento, país de producción y duración de la película. 
 
 ## Documentación modelado
 A. Descripción del metadatos de las variables originales.
